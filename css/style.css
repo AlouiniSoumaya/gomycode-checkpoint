@@ -1,0 +1,11 @@
+.col{
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-left: 200px;
+}
+.fa-heart {
+    display: flex;
+    justify-content: flex-end;
+}
